@@ -3,7 +3,4 @@ This is just an exercise to demonstrate how to use Distributed Version Control S
 
 
 ===================
-Omo Jole (Contributor)
-
-==========
-Kingsley / Contributor
+Akibu Opeyemi (Contributor)
