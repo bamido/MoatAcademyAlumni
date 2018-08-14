@@ -1,2 +1,2 @@
 # Moat Academy Alumni
-All About Moat Academy For Developers
+This is just an exercise to demonstrate how to use Distributed Version Control System.
