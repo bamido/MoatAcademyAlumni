@@ -1,0 +1,78 @@
+body{
+	background-color: #ff6347;
+	color: rgb(255, 255, 255);
+	font-family: 'Raleway', sans-serif;
+}
+
+#headertext{
+	font-size: 45px;
+	text-align: center;
+	font-family: chivo, "Times New Roman", serif;
+}
+
+#leftmenu{
+
+	list-style-type: none;
+
+}
+
+#leftmenu a{
+	text-decoration: none;
+	color: pink;
+	
+}
+
+#boxing{
+
+border:0px solid white;
+float:right;
+margin:10px;
+	
+}
+
+.clear-left{
+	clear: left;
+}
+
+.clear-right{
+	clear: right;
+}
+
+.clear-both{
+	clear: both;
+}
+
+table tr td{
+	border:0px solid white;
+}
+
+.football{
+	width: 200px;
+	height:200px;
+}
+
+h2{
+	color: rgb(255,255,155);	
+	font-family: 'Crimson Text', serif;
+	font-size: 45px;
+}
+
+#text1{
+	
+font-style: normal;
+font-size: 1em;
+font-weight: 900;
+
+}
+
+
+#topmenu li{
+	
+	display:inline;
+	border: 0px solid #ffffff;
+	margin: 15px;
+	background-color: pink;
+	padding:10px;
+	
+	
+}

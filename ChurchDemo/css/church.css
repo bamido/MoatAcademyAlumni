@@ -1,0 +1,16 @@
+body{
+
+	background-color: cream;
+}
+
+.container{
+	background-color: white;
+	width: 80%
+
+}
+
+.container-fluid{
+	background-color: black;
+	width: 100%
+}
+

@@ -1,0 +1,47 @@
+body{
+	background-color: tomato;
+	
+}
+
+table,th,td{
+	border-bottom: 2px solid lightblue;
+	
+}
+
+table{
+	border-collapse:collapse;
+	width:100%;
+}
+
+
+
+td{
+	
+	height:50px;
+	text-align:center;
+	vertical-align:bottom;
+	padding:20px;
+}
+th{
+	height:50px;
+	background-color: blue;
+}
+
+/* the Hover is used to add effect on a text*/
+tr:hover{
+	font-size:2em;
+	background-color:tomato;
+	
+}
+
+/* the Nth child used here to specify only even numbers (These are numbers divisible by 2*/
+tr:nth-child(even){
+	background-color: rgba(219,64,214,0.19);
+}
+
+
+
+#literature{
+	list-style-image: url("../images/getin.png");
+}
+

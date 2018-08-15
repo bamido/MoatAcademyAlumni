@@ -1,0 +1,56 @@
+/*  */
+
+#mydiv4 ul li{
+		display:inline;
+		margin:10px;
+		padding:6px;
+		border:1px solid black;
+		border-radius:1px;
+		background-color:white;
+		
+		}
+		
+		#mydiv4 ul li a{
+		text-decoration: none;
+		
+		}
+		#mydiv4{
+		position: fixed;
+		top: 0px;
+		background-color: rgba(0,0,250,0.70);
+		width:35%;
+		
+		}
+		
+#leftimg{
+	border:0px solid green;
+	height: auto;
+	float: left;
+	width: 28%;
+	margin: 10px 0px 10px 0px;
+}		
+		
+		#mycontent{
+	border:0px solid green;
+	height: auto;
+	float: right;
+	width: 48%;
+	margin: 10px 0px 10px 0px;
+}
+
+
+p.para1::first-letter{
+	color: brown;
+	font-size: 35px;
+}
+#myclearboth{
+	clear:both	
+}
+
+.footer{
+	height: 200px;
+	background-color: #190e4f;
+	color: white;
+	padding: 20px;
+	margin: 10px 0px 10px 0px;
+}
